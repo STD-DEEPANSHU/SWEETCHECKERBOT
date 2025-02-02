@@ -9,5 +9,5 @@ RUN pip3 install wheel
 RUN pip3 install --no-cache-dir -U -r requirements.txt
 WORKDIR /app
 COPY . .
-CMD python3 -m EQUROBOT
+CMD python3 -m SWEETCHECKER
 
