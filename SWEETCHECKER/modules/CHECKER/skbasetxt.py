@@ -7,8 +7,8 @@ import random
 import string
 import asyncio
 import threading
-from EQUROBOT import app
-from EQUROBOT.core.mongo import has_premium_access, check_keys
+from SWEETCHECKER import app
+from SWEETCHECKER.core.mongo import has_premium_access, check_keys
 from config import OWNER_ID
 from pyrogram import filters
 from collections import defaultdict
