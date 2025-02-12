@@ -51,7 +51,7 @@ Status: **Active** ✅
 HELP_TXT = """
 **Bot Status:** Active ✅
 
-Hello User! [˹ ˹ ᴇǫᴜʀᴏʙᴏᴛ ˼ ˼](https://t.me/Sweetcheckerupdate) offers plenty of commands, including Auth Gates, Charge Gates, Tools, and other features.
+Hello User! [˹ ˹ 𝐒𝐖𝐄𝐄𝐓𝐂𝐇𝐄𝐂𝐊𝐄𝐑 ˼ ˼](https://t.me/Sweetcheckerupdate) offers plenty of commands, including Auth Gates, Charge Gates, Tools, and other features.
 
 Click each of them below to know more.
 """
