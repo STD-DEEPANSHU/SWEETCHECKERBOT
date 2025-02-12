@@ -9,7 +9,7 @@ from pyrogram import __version__ as pyrogram_version  # Import pyrogram version
 
 start_time = time.time()
 
-PING_MP4 = "https://graph.org/file/e67795f5e68ed4b93ffea.mp4"
+PING_MP4 = "https://files.catbox.moe/m3cbse.mp4"
 
 def time_formatter(milliseconds):
     minutes, seconds = divmod(int(milliseconds / 1000), 60)
