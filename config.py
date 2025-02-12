@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "28545924"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH", "5b8697a66d069daf771c03010659a2c0")
 # ----------------D--------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7542551291:AAEzBRQU0WNIHa4-BVjYZ4nEVfybTO7gYmg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7542551291:AAE7jP7xZaMDuaQIoZbGihzEb8539_2yOYs")
 # -----------------A-------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "SWEETCHECKER")
 # ------------------X------------------------------
