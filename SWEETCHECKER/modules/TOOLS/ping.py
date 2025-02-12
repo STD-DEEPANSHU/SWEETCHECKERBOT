@@ -22,6 +22,6 @@ I ᴀᴍ ᴀʟɪᴠᴇ, ᴍʏ ᴅᴇᴀʀ ɢᴇɴɪᴜs ᴍᴀsᴛᴇʀ.
 ʙᴏᴛ sᴛᴀᴛᴜs: ᴏɴ ✅
 ʀᴀᴍ ᴜsᴀɢᴇ: {ram_usage}%
 ᴄᴘᴜ ᴜsᴀɢᴇ: {cpu_usage}%
-ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ: [ᴍʀ°᭄ᴅᴀxx ࿐](https://t.me/YourExDestiny)
+ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ: [𝐖𝐞𝐫𝐞𝐰𝐨𝐥𝐟_𝐃𝐞𝐦𝐨𝐧🕊️](https://t.me/WerewolfDemon)
     ''', parse_mode=enums.ParseMode.MARKDOWN, disable_web_page_preview=True)
     
