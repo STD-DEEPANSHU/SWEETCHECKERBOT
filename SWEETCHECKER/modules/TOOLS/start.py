@@ -12,10 +12,10 @@ START_TEXT = """
 ᴇxᴘʟᴏʀᴇ ᴍʏ ʜᴇʟᴘ ᴍᴇɴᴜ ᴛᴏ ᴅɪsᴄᴏᴠᴇʀ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴀᴘᴀʙɪʟɪᴛɪᴇs ᴀɴᴅ ʜᴏᴡ ʏᴏᴜ ᴄᴀɴ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ.
 """
 
-CHK_TXT = "Hello User!\n\n[˹ ˹ ᴇǫᴜʀᴏʙᴏᴛ ˼ ˼](https://t.me/ SWEETCHECKER) Checker Gates.\n\nClick on each one below to get to know them better."
+CHK_TXT = "Hello User!\n\n[˹ ˹ 𝐒𝐖𝐄𝐄𝐓𝐂𝐇𝐄𝐂𝐊𝐄𝐑 ˼ ˼](https://t.me/Sweetcheckerupdate) Checker Gates.\n\nClick on each one below to get to know them better."
 NISHKA_TXT = "__Use the currency system to access premium features.__"
-AUTH_TXT = "Hello User!\n\n[˹ ˹ ᴇǫᴜʀᴏʙᴏᴛ ˼ ˼](https://t.me/ SWEETCHECKER) Auth Gates.\n\nClick on each one below to get to know them better."
-CHARGE_TXT = "Hello User!\n\n[˹ ˹ ᴇǫᴜʀᴏʙᴏᴛ ˼ ˼](https://t.me/ SWEETCHECKER)Charge Gates.\n\nClick on each one below to get to know them better."
+AUTH_TXT = "Hello User!\n\n[˹ ˹ 𝐒𝐖𝐄𝐄𝐓𝐂𝐇𝐄𝐂𝐊𝐄𝐑 ˼ ˼](https://t.me/Sweetcheckerupdate) Auth Gates.\n\nClick on each one below to get to know them better."
+CHARGE_TXT = "Hello User!\n\n[˹ ˹ 𝐒𝐖𝐄𝐄𝐓𝐂𝐇𝐄𝐂𝐊𝐄𝐑 ˼ ˼](https://t.me/Sweetcheckerupdate)Charge Gates.\n\nClick on each one below to get to know them better."
 
 LOOKUP_TXT = """
 **Lookup Commands 🔍**
@@ -51,7 +51,7 @@ Status: **Active** ✅
 HELP_TXT = """
 **Bot Status:** Active ✅
 
-Hello User! [˹ ˹ ᴇǫᴜʀᴏʙᴏᴛ ˼ ˼](https://t.me/ SWEETCHECKER) offers plenty of commands, including Auth Gates, Charge Gates, Tools, and other features.
+Hello User! [˹ ˹ ᴇǫᴜʀᴏʙᴏᴛ ˼ ˼](https://t.me/Sweetcheckerupdate) offers plenty of commands, including Auth Gates, Charge Gates, Tools, and other features.
 
 Click each of them below to know more.
 """
