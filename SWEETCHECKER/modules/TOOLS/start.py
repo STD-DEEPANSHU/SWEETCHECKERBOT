@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQ
 from config import OWNER_ID
 from  SWEETCHECKER import app, BOT_USERNAME
 
-BOT_NAME = '˹ ˹ ᴇǫᴜʀᴏʙᴏᴛ ˼ ˼'
+BOT_NAME = '˹ ˹ 𝐒𝐖𝐄𝐄𝐓𝐂𝐇𝐄𝐂𝐊𝐄𝐑 ˼ ˼'
 
 START_TEXT = """
 **ʜᴇʏ** {},
