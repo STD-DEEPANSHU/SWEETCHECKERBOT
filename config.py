@@ -12,7 +12,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "7542551291:AAEzBRQU0WNIHa4-BVjYZ4nEVfyb
 # -----------------A-------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "SWEETCHECKER")
 # ------------------X------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7427691214"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6656608288"))
 
 EVAL = list(map(int, getenv("EVAL", "6656608288").split()))
 # ------------------X------------------------------
